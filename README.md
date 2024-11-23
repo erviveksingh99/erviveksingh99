@@ -1,10 +1,9 @@
-<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="logo" width="100">
 
 <h1 align="center">Hello, I'm Vivek Singh 👋</h1>
 <h3 align="center">A passionate Java Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img align="center" src="https://vidip.tech/assets/hero_section-75d6b358.gif" alt="Coding GIF" width="500">
+  <img align="center" src="https://vidip.tech/assets/hero_section-75d6b358.gif" alt="Coding GIF" width="300">
 </p>
 
 <p align="center">
