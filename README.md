@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello, I'm Vivek Singh 👋</h1>
-<h3 align="center">A passionate Java Developer from India 🇮🇳</h3>
+<h3 align="center">Java Developer 🇮🇳</h3>
 
 <p align="center">
   <img align="center" src="https://vidip.tech/assets/hero_section-75d6b358.gif" alt="Coding GIF" width="300">
